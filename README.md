@@ -1,79 +1,86 @@
-# 👋 Hi, I'm Bot-37
+# Bot-37
 
-🚀 A tech-driven engineer passionate about **building, breaking, and securing systems**.  
-I explore the intersection of **AI, cybersecurity, and full-stack development**, constantly pushing my limits through hands-on projects and experimentation.
-
----
-
-## 🔭 What I’m Working On
-
-- **Artificial Intelligence & Machine Learning**
-  - Model development, data pipelines, automation, and intelligent systems
-- **Cybersecurity & Ethical Hacking**
-  - System hardening, penetration testing fundamentals, and security research
-- **Flutter & Web Development**
-  - Cross-platform mobile apps and responsive web interfaces
-- **Frontend Engineering**
-  - Dynamic, scalable UI using **React.js** and modern UX practices
-- **Backend & Tooling**
-  - APIs and services with **Node.js**, **MySQL**, and developer tooling via **VS Code**
+> A tech-driven engineer exploring the intersection of artificial intelligence, cybersecurity, and full-stack development through hands-on experimentation and continuous learning.
 
 ---
 
-## 🧠 Always Learning
+## Current Focus
 
-I strongly believe in **continuous improvement**.  
-Currently leveling up in:
-- Secure system design
-- Advanced Linux workflows
-- AI-driven automation
-- Scalable application architecture
+**Artificial Intelligence & Machine Learning**  
+Developing intelligent systems, building data pipelines, and creating automation solutions that leverage modern ML frameworks and practices.
 
----
+**Cybersecurity & Ethical Hacking**  
+Researching system hardening techniques, exploring penetration testing fundamentals, and conducting security analysis in controlled environments.
 
-## ⚒️ Tech Stack & Tools
+**Flutter & Web Development**  
+Engineering cross-platform mobile applications and responsive web interfaces with attention to user experience and performance.
 
-**Languages**
-- Python · Java · C · JavaScript
+**Frontend Engineering**  
+Building dynamic, scalable user interfaces using React.js and implementing modern UX patterns that prioritize usability and accessibility.
 
-**Frameworks & Libraries**
-- React.js · Flutter · OpenCV · Node.js
-
-**Platforms & Tools**
-- Linux · Git · Firebase · Figma · MySQL · VS Code
+**Backend & Tooling**  
+Architecting APIs and services with Node.js and MySQL, developing developer tooling, and optimizing workflows through VS Code extensions.
 
 ---
 
-## 🧪 Hands-On Experience
+## Philosophy
 
-⚡ **Fun Fact:**  
-I converted my **old PC into a personal server**, running:
-- A private media center
-- Code deployments
+```
+Build · Break · Learn · Secure
+```
+
+I believe in continuous improvement through practical application. My approach prioritizes hands-on experience over theoretical knowledge, seeking to understand systems by building them, breaking them, and securing them.
+
+**Current Learning Path**  
+→ Secure system design  
+→ Advanced Linux workflows  
+→ AI-driven automation  
+→ Scalable application architecture
+
+---
+
+## Technical Expertise
+
+**Languages**  
+Python · Java · C · JavaScript
+
+**Frameworks & Libraries**  
+React.js · Flutter · OpenCV · Node.js
+
+**Platforms & Tools**  
+Linux · Git · Firebase · Figma · MySQL · VS Code
+
+---
+
+## Notable Projects
+
+**Personal Server Infrastructure**  
+Converted legacy hardware into a multi-purpose server environment hosting:
+- Private media center
+- Code deployment pipeline
 - Self-hosted services
-- A controlled **ethical hacking lab**
+- Ethical hacking laboratory
 
-This setup helps me experiment with **real-world systems**, not just theory.
-
----
-
-## 🤝 Collaboration & Contact
-
-📫 Open to:
-- Tech collaborations  
-- Project ideas  
-- Brainstorming sessions  
-
-Feel free to **DM me** — I’m always up for building something impactful.
+This infrastructure provides a real-world testing ground for system administration, security research, and service deployment—bridging the gap between theory and practice.
 
 ---
 
-## 😄 About Me
+## Collaboration
 
-- **Pronouns:** He / Him  
-- **Mindset:** Build • Break • Learn • Secure  
-- **Focus:** Practical engineering over surface-level knowledge
+**Open to:**
+- Technical collaborations on innovative projects
+- Architecture and design discussions
+- Knowledge sharing and mentorship
+
+**Contact:**  
+Direct messages welcome. I'm always interested in building impactful solutions and exchanging ideas with fellow engineers.
 
 ---
 
-⭐ If you like my work, consider checking out my repositories and leaving a star!
+**Pronouns:** He / Him  
+**Approach:** Practical engineering over surface-level knowledge  
+**Mission:** Building secure, scalable, and intelligent systems
+
+---
+
+*If you find value in my work, consider exploring my repositories and contributing your feedback.*
